@@ -38,7 +38,7 @@ export default function Hero() {
             </h1>
             <div className='max-w-3xl mx-auto'>
               <p className='text-xl text-gray-600' data-aos='zoom-y-out' data-aos-delay='150'>
-                Strengthening the Ummah with technology.
+                Strengthening the Ummah with technology
               </p>
               {/* <div
                 className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
