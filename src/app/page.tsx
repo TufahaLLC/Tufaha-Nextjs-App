@@ -8,7 +8,7 @@ export default function Home() {
     <main className='grid w-screen h-screen'>
       <Hero />
       {/* <Features /> */}
-      <LiveStream />
+      {/* <LiveStream /> */}
       <FeaturesBlocks />
       {/* <Testimonials />
       <Newsletter /> */}
